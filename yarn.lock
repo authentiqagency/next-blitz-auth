@@ -935,10 +935,10 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@blitzjs/auth@2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@blitzjs/auth/-/auth-2.0.4.tgz#df707c07a8ba7a1a58790bba38920b43e82184a6"
-  integrity sha512-U0SyBci5d+/0+E6lUb0hsdfvNTFNYuHNoz7cZtnblOmj218F79/q4l+opGqxRD+HmT0xOsetYbqmKidv0xq0bA==
+"@blitzjs/auth@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@blitzjs/auth/-/auth-2.0.5.tgz#5ea9608bf396091318eb1bda812d8acfeb729cc0"
+  integrity sha512-xXE727QCYDtzfrBy9oTpRQ4ah9U4FgnvLGz+366r1AE77uRzsZmKz9MamyvyJl0URIVlpj0fMtVppkZHRbRsIA==
   dependencies:
     "@types/b64-lite" "1.3.0"
     "@types/cookie-session" "2.0.44"
@@ -962,10 +962,10 @@
     supports-color "8.1.1"
     url "0.11.0"
 
-"@blitzjs/generator@2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@blitzjs/generator/-/generator-2.0.4.tgz#0844f51bb28d230e0d8878d145782d95bd65bb53"
-  integrity sha512-ZBtxPfe25AaELd/dujlfZNzNa22ddQMBFqjTzPpH5REv0rHhlNxeLuB2Mu6lQrn0oxdEtJP1SHEWBIsq9SDdpw==
+"@blitzjs/generator@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@blitzjs/generator/-/generator-2.0.5.tgz#7f571f12cf3e5f1b18eb75d636ff40ca4d9bea55"
+  integrity sha512-KY+Yl89fWIDFrx58phVqQLwBN0HMOLAKUZZ4b0k0sQjAx6ZZOXNPJGWSvF7OtClvbwpLclSnG/AwnMVWSFF2Rg==
   dependencies:
     "@babel/core" "7.12.10"
     "@babel/plugin-transform-typescript" "7.12.1"
@@ -995,12 +995,12 @@
     vinyl "2.2.1"
     zod "3.20.2"
 
-"@blitzjs/next@2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@blitzjs/next/-/next-2.0.4.tgz#a2acd4867f5c024681f3e0938df6e464d599af6d"
-  integrity sha512-bIalppJsroPBtFiR6/+c4wJEJRQSc/k+RG7BTYhp+rFcMzPMRfk5FYjgleWFEY7/Pr6BALIJf9fA/Gw9NCEj8Q==
+"@blitzjs/next@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@blitzjs/next/-/next-2.0.5.tgz#507a3c435a9538b63f3472aba3a14580d01f623d"
+  integrity sha512-H+gCDTZM38sNUiJrjjhGeUDIgygYY8EeFnYIek5iPpgD9P8EL1hsUMdOGwWm6qgbXNeD9RNx/qRLrL+stLs+Hg==
   dependencies:
-    "@blitzjs/rpc" "2.0.4"
+    "@blitzjs/rpc" "2.0.5"
     "@types/hoist-non-react-statics" "3.3.1"
     copy-webpack-plugin "11.0.0"
     debug "4.3.3"
@@ -1009,10 +1009,10 @@
     superjson "1.11.0"
     supports-color "8.1.1"
 
-"@blitzjs/rpc@2.0.4":
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/@blitzjs/rpc/-/rpc-2.0.4.tgz#56764c0f7e41107e995b5708e627b15b84c3b3bf"
-  integrity sha512-4XOxhOPymDYgo0XK4AerePUpgqCMVBMXcuVVA6K7dWfx+M87uk4Fv2gwMJ9FLmHU5Zp9V++WaIpIwBayup87Lg==
+"@blitzjs/rpc@2.0.5":
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/@blitzjs/rpc/-/rpc-2.0.5.tgz#708b87ba3da658bd54cccf12a1d890774f0766e8"
+  integrity sha512-hIO4jh3LGdhqRO3aPyzTZJvwlJJCgiWNBc32/u3CSiVSn6LgFykfrvYJkrqCa1e7yf6JyIrKd+XN2nFCoi4zVw==
   dependencies:
     "@swc/core" "1.3.7"
     "@tanstack/react-query" "4.24.4"
@@ -2080,12 +2080,12 @@ bl@^4.0.3:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-blitz@2.0.4:
-  version "2.0.4"
-  resolved "https://registry.yarnpkg.com/blitz/-/blitz-2.0.4.tgz#99480fa75a93edf76dd15e6df793fae3f185a6be"
-  integrity sha512-TkwI24LDPv0wBl2gpiE1ANPpao3jP93kFZoK11MP7VhXUc1TYtDR/0bj7qYLlT39gfCoqEI1WFLkRN9V6tKYAw==
+blitz@2.0.5:
+  version "2.0.5"
+  resolved "https://registry.yarnpkg.com/blitz/-/blitz-2.0.5.tgz#6dc90634364ef7f9df0dfe677561d11d62559de3"
+  integrity sha512-NuoC59y91a9poosuSoOiv1jsXTAxrvk9s4bIRmDJkK5ar4vdiEpHP3T3ZcXQByk5UUHlzpe61AwQ6TyfKb6WSA==
   dependencies:
-    "@blitzjs/generator" "2.0.4"
+    "@blitzjs/generator" "2.0.5"
     "@mrleebo/prisma-ast" "0.2.6"
     "@types/global-agent" "2.1.1"
     arg "5.0.1"
